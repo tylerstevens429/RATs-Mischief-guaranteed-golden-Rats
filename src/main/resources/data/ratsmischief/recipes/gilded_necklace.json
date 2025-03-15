@@ -1,20 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "S#S",
-    "# #",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:popped_chorus_fruit"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "ratsmischief:clothed_ingot"
+  },
+  "base": {
+    "item": "ratsmischief:purpur_rat_pouch"
   },
   "result": {
-    "item": "ratsmischief:guilded_necklace",
+    "item": "ratsmischief:gilded_necklace.jason",
     "count": 1
   }
 }
